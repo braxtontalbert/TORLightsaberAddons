@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d65fe4d-3c02-4848-a46d-e719493f7118" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/15bd128927e946e6b34431d2f9dda31529800/54/22f48ff0/ItemLightsaber.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/16246c1d3e1f46bd9bff725057a086e11374c0/4b/fd5304a0/GameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4e99931c5be544f19913d6bdc368f47c382400/54/d5fb4708/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77cc5141e942435d894f9202d3eba954382400/6d/1e4c539c/SpellData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77cc5141e942435d894f9202d3eba954382400/80/95669094/SpellCastData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77cc5141e942435d894f9202d3eba954382400/cf/6d3c77ee/SpellCastCharge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8bcd64179d0f4cb297ad5fb905442a36531020/47/94560b71/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a99f5f70417e43f5a5124aa2a26735512aa00/29/aaf16929/ItemLightsaber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a99f5f70417e43f5a5124aa2a26735512aa00/69/4e155f09/LightsaberBlade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a99f5f70417e43f5a5124aa2a26735512aa00/a0/3db8ad6e/ItemModuleBlaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a99f5f70417e43f5a5124aa2a26735512aa00/a2/e1e739a0/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a99f5f70417e43f5a5124aa2a26735512aa00/f6/e8d56108/ItemBlaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/dfacf7d2f35d45dfab8e5c309bdef8e9368600/44/c3b02c8c/PlayerControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/dfacf7d2f35d45dfab8e5c309bdef8e9368600/61/afd4c555/GetGrabber.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2kLN8bbHz7rACuNfPWKA7jS19ZB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CodeLensConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d65fe4d-3c02-4848-a46d-e719493f7118" name="Changes" comment="" />
+      <created>1723058738392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723058738392</updated>
+      <workItem from="1723058739489" duration="11305000" />
+      <workItem from="1723071353145" duration="931000" />
+      <workItem from="1723079763424" duration="18433000" />
+      <workItem from="1723132119258" duration="31555000" />
+      <workItem from="1723258107680" duration="4757000" />
+      <workItem from="1741986360343" duration="213206000" />
+      <workItem from="1742608392277" duration="9161000" />
+      <workItem from="1742655540466" duration="25269000" />
+      <workItem from="1742738132587" duration="48263000" />
+      <workItem from="1742955836884" duration="45405000" />
+      <workItem from="1743102906881" duration="28395000" />
+      <workItem from="1743202469708" duration="13276000" />
+      <workItem from="1743609059798" duration="1090000" />
+      <workItem from="1743687710584" duration="1814000" />
+      <workItem from="1744050477672" duration="1430000" />
+      <workItem from="1744076200528" duration="13010000" />
+      <workItem from="1744716111938" duration="102000" />
+      <workItem from="1744767230918" duration="94000" />
+      <workItem from="1744849206612" duration="96000" />
+      <workItem from="1747412912814" duration="706000" />
+      <workItem from="1750991912008" duration="2437000" />
+      <workItem from="1751238900852" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
